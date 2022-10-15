@@ -3,14 +3,14 @@
 #
 
 # Name of your site (displayed in the header)
-name: The Name of Your Site Goes Here
+name: Lucy Reynolds
 
 # Short bio or description (displayed in the header)
-description: A Short Description of Your Site
+description: A site about my life and how I have a lot of common problems (such as friendships). Hopefully also ways to solve them.
 
 # URL of an image you'd like to appear in your header.
 # It should be long and rectangular to feature as a banner image.
-banner:
+banner: https://esllibrary.s3.amazonaws.com/uploads/post/title_image/335/Tara_Using-Emoji-to-Review-Feeling-Adjectives_Banner.png
 #
 # Flags below are optional
 #
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: hum-331-princeton
+  github: gooseygirl
   instagram:
   linkedin:
   pinterest:
